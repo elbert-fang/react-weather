@@ -1,1 +1,1 @@
-export { default }from "./WindSpeedAndHumidity";
+export { default } from "./WindSpeedAndHumidity";
